@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1067668879622",
+    "project_id": "modern-diabetes",
+    "storage_bucket": "modern-diabetes.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067668879622:android:0fd7bfcfdd50c74da64687",
+        "android_client_info": {
+          "package_name": "com.codfusionbit.diabetes_traking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbEgkaPVtfWMzpTpbGEJO49g2S14p0Lwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067668879622:android:3738c7a22af46580a64687",
+        "android_client_info": {
+          "package_name": "com.codfusionbit.diabetestraking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbEgkaPVtfWMzpTpbGEJO49g2S14p0Lwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
