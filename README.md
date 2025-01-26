@@ -8,7 +8,7 @@ A modern Flutter application designed to help users track their blood glucose le
   <img src="https://raw.githubusercontent.com/codefusionbit/universal_code_viewer/main/screenshots/codefusionbit.jpg" alt="Code Fusion Bit" />
 </a>
 
-## Features 🖼️
+## Screenshot 🖼️
 <div align="center">
   <!-- Mobile Screenshots -->
   <div style="margin-bottom: 20px;">
@@ -22,6 +22,9 @@ A modern Flutter application designed to help users track their blood glucose le
     <img src="screenshots/web_dark.png" width="400"/>
   </div>
 </div>
+
+## Web Demo 
+([Click Here](https://modern-diabetes.web.app/))
 
 ## Features 🌟
 - **Blood Glucose Monitoring** (Fasting/Non-Fasting)
