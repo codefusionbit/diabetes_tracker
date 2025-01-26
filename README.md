@@ -157,7 +157,7 @@ lib/
 We welcome contributions to enhance the functionality and usability of the app!
 ### Steps to Contribute
 
-1. **Fork the Repository**: Clone the forked repository to your local machine.
+1. **Clone the Repository**: Clone the repository to your local machine.
 
 2. **Create a Feature Branch**: Work on a feature branch to keep changes isolated.
    ```bash
@@ -178,6 +178,7 @@ We welcome contributions to enhance the functionality and usability of the app!
 5. **Submit a Pull Request**:
    * Provide a detailed description of the changes in your PR.
    * Address any feedback from reviewers.
+     
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
