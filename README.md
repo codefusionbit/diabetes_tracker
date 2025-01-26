@@ -4,6 +4,9 @@ A modern Flutter application designed to help users track their blood glucose le
 
 [![license](https://img.shields.io/github/license/codefusionbit/universal_code_viewer)](LICENSE)
 
+<div>
+  <img src="android/app/src/main/ic_launcher-playstore.png" width="200"/>
+</div>
 <a href="https://codefusionbit.com/" target="_blank" rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/codefusionbit/universal_code_viewer/main/screenshots/codefusionbit.jpg" alt="Code Fusion Bit" />
 </a>
