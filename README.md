@@ -2,13 +2,13 @@
 
 A modern Flutter application designed to help users track their blood glucose levels and manage their diabetes data with ease. 🩸 Whether you're monitoring fasting or non-fasting glucose, or keeping track of meals, this app provides an intuitive and interactive experience to keep your health in check.
 
-[![license](https://img.shields.io/github/license/codefusionbit/universal_code_viewer)](LICENSE)
+[![license](https://img.shields.io/github/license/codefusionbitllp/universal_code_viewer)](LICENSE)
 
 <div>
   <img src="android/app/src/main/ic_launcher-playstore.png" width="200"/>
 </div>
 <a href="https://codefusionbit.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/codefusionbit/universal_code_viewer/main/screenshots/codefusionbit.jpg" alt="Code Fusion Bit" />
+  <img src="https://raw.githubusercontent.com/codefusionbitllp/universal_code_viewer/main/screenshots/codefusionbit.jpg" alt="Code Fusion Bit" />
 </a>
 
 ## Screenshot 🖼️
